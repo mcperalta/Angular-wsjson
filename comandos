@@ -1,0 +1,21 @@
+npm i -g @angular/cli // instalar cliente de angular
+ng new NombreApp
+cd NombreApp
+ng serve3
+ng init
+-----
+
+instalar componentes
+
+npm i jquery --save
+npm i popper.js --save3
+npm i bootstrap --save @ng-bootstrap/ng-bootstrap
+
+
+generar componentes
+
+ng g c employees
+
+generar service
+
+ng g s shared/employee 

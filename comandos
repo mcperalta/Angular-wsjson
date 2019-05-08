@@ -20,3 +20,7 @@ generar service
 
 ng g s shared/employee 
 https://github.com/CodAffection/Angular-7-CRUD-with-Web-API/tree/master/Angular%207
+
+npm i angular --save @anular-devkit/build-angular
+
+npm i ngx -toastr --save

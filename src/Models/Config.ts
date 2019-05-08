@@ -1,0 +1,1 @@
+export const ROOT_URL:string="http://localhost:8080/ws-cpa/";
